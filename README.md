@@ -1,1 +1,3 @@
-# ConcatProgram
+- This program was one of the first practice projects for my data structures class
+- The program concatonates strings and outputs them to the terminal
+- The program mainly uses for loop logic and simple cout statements
